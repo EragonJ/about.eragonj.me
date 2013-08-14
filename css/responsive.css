@@ -1,0 +1,20 @@
+@media (max-width: 480px) {
+    .message-block {
+        width: 250px;
+    }
+    .about-list {
+        font-size: 2em;
+    }
+    .avatar-wrapper {
+        padding: 25px 0;
+    }
+}
+@media (max-width: 767px) {
+
+}
+@media (min-width: 768px) and (max-width: 979px) {
+
+}
+@media (min-width: 1200px) {
+
+}
